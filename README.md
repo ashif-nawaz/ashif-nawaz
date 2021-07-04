@@ -56,7 +56,7 @@ The Collaboration & Workflows tools that i use daily.
 
 How to reach me?
 
--> sshmshf@gmail.com
+-> sshmshf@gmail.com (Mail)
 -> @Ashif_Hssn (Twitter)
 
 
