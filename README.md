@@ -54,7 +54,7 @@ The Collaboration & Workflows tools that i use daily.
 -> Github
 -> Gitlab
 
-How to reach me?.
+How to reach me?
 
 -> sshmshf@gmail.com
 -> @Ashif_Hssn (Twitter)
