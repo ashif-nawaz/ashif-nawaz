@@ -19,42 +19,76 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 The Languanges I speak in the Frontend.
 
 -> HTML
+
 -> CSS
+
 -> Javascript
+
 -> ReactJs
+
 -> Redux
+
 -> JSS
+
 -> Axios
+
 -> Formik
+
 -> Yup
+
 -> Material UI
 
 
 The Languanges I speak in the Frontend.
 
 -> NodeJs
+
 -> ExpressJs
+
 -> MongoDB
+
 -> REST API
+
 -> Mongoose
 
 
 The tools that I use.
 
 -> VSCode
+
 -> IntellijIDEA
+
 -> Pen & Paper
+
 -> Figma
+
 -> Adobe XD
+
 
 
 The Collaboration & Workflows tools that i use daily.
 
+
+
 -> Git
+
 -> Github
+
 -> Gitlab
 
+The General Software Engineering Skills 
+
+-> Python
+
+-> Java
+
+-> Data Structure & Algorithms
+
+
+
 How to reach me?
+
+
 
 -> sshmshf@gmail.com (Mail)
 -> @Ashif_Hssn (Twitter)
