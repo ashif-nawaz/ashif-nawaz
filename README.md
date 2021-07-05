@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorimthms.
 
-### The Languanges I speak in the Frontend.
+##### The Languanges I speak in the Frontend.
 
 * HTML
 * CSS
