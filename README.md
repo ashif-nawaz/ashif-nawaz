@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorimthms.
+A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorithms.
 
 ##### The Languanges I speak in the Frontend.
 
