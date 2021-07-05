@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorimthms.
-<span style="color:blue">some *blue* text</span>.
+
 ##### The Languanges I speak in the Frontend.
 
 * HTML
