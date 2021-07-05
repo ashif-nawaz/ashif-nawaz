@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorimthms.
+A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorimthms.
 
-## The Languanges I speak in the Frontend.
+### The Languanges I speak in the Frontend.
 
 -> HTML
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -> Material UI
 
 
-## The Languanges I speak in the Frontend.
+### The Languanges I speak in the Frontend.
 
 -> NodeJs
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 
-## The Collaboration & Workflows tools that i use daily.
+### The Collaboration & Workflows tools that i use daily.
 
 
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 -> Gitlab
 
-## The General Software Engineering Skills 
+### The General Software Engineering Skills 
 
 -> Python
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 
 
-## How to reach me?
+### How to reach me?
 
 
 
