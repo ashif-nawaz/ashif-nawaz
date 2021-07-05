@@ -29,7 +29,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 * Formik
 * Yup
 
-##### The Languanges I speak in the Frontend.
+##### The Languanges I speak in the Backend.
 
 * NodeJs
 * ExpressJs
