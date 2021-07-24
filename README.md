@@ -32,6 +32,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 ##### The Languanges I speak in the Backend.
 
 * NodeJs
+* Python
 * ExpressJs
 * MongoDB
 * REST API
