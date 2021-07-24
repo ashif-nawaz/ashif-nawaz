@@ -61,7 +61,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 ##### How to reach me?
 
 * sshmshf@gmail.com (Mail)
-* https://@Ashif_Hssn (Twitter)
+* https://twitter.com/@Ashif_Hssn (Twitter)
 
 
 
