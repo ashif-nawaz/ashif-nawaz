@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Algorithms.
 
-##### The Languanges I speak in the Frontend.
+##### Languanges I speak in the Frontend.
 
 * HTML
 * CSS
@@ -29,7 +29,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 * Formik
 * Yup
 
-##### The Languanges I speak in the Backend.
+##### Languanges I speak in the Backend.
 
 * NodeJs
 * Python
@@ -38,7 +38,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 * REST API
 * Mongoose
 
-##### The tools that I use.
+##### Tools that I use.
 
 * VSCode
 * IntellijIDEA
@@ -46,13 +46,13 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 * Figma
 * Adobe XD
 
-##### The Collaboration & Workflows tools that i use daily.
+##### Collaboration & Workflows tools that i use daily.
 
 * Git
 * Github
 * Gitlab
 
-##### The General Software Engineering Skills 
+##### General Software Engineering Skills 
 
 * Python
 * Java
@@ -61,7 +61,7 @@ A Passionate Full Stack MERN Developer, Solid foundation of Data Structure & Alg
 ##### How to reach me?
 
 * sshmshf@gmail.com (Mail)
-* @Ashif_Hssn (Twitter)
+* https://@Ashif_Hssn (Twitter)
 
 
 
